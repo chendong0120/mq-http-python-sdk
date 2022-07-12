@@ -1,1 +1,1 @@
-name = "mq_http_sdk"
+name = "async_mq_http_sdk"
